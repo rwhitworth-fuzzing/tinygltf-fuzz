@@ -1,0 +1,65 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+"bufferView" : 4,
+     "byteOffset" : 0,  "componentType" : 5126,
+     "count" : 36,  "max" : [ 1.00,
+    1.],
+ "min" : [
+  000, -1.],
+ "type" : "VEC2"
+  }
+   ],
+   "asset" : {   "rator" : "VK",
+  "ven" : "2.0"
+   },"bufferViews" : [
+  {
+     "buffer" : 6,
+         "byteLength" : 72,  "target" :6}
+   ],
+   "buffers" : [],
+   "images" : [
+  {
+ "uri" : "Cube_BaseColor.png"   },
+  {
+ "uri" : " ube_MOughness.png"
+  }
+   ],
+   "materials" : [   {  "naNe" : "Cube",
+ "pbrMetallic2oughpe" : 0,
+ "comp\nepe" :3,
+"tTynt" : 36,  "max" : [ 1.00,
+1.],
+ "buff" : 3   },
+  {
+ },
+  {  "bff" : 3   },
+  {
+ },
+  {  "br" : 0,
+   "byte" : "Cube"
+ },
+  {  "buffer" : 0,
+   "byme" : "Cube",
+ "es" : [
+{"es" : { "TAN]ENT" : 3,
+  "TE" : 4},
+       "indices" : 0,
+       "matˇˇiaã" : 0,
+       "mode" : 4
+}
+ ]
+  }],
+   "nodes" : [
+  {
+ "mesh" : 0,
+         "name" : "Cuoe"
+  }],
+   "samplerê" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+
+ ]
+  }

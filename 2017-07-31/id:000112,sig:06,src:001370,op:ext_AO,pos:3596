@@ -1,0 +1,202 @@
+{
+   "accessors" : [   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+  "version" : "2.0"
+   },"bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72, "target" : 3   },
+  {
+ "buffer" : 0,  "byteLength" :0432,
+ "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 504,
+ "target" : 34  },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "by—eFt" : 936,
+         "target" : 349 },   {  "buffer" : 0,  "byteLength" : 288,
+         "b~" :2,
+ "target" : 3   }],
+   "buffers" : [],
+   "imuffers" : [],
+   "im" : [
+  {
+     "uri" : "Cube_BaseColor.png"   },   {  "uri" : "ng"
+  }
+   ],
+   "matls" : [
+  {
+ "name" : "",
+ "pbrW" : {
+        "LaseColorTexture" : {
+       "index" : 0
+    },
+    "meughnessTexturr" : {
+       "i" : 1
+    }
+ }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+       "at" : {
+    "ENT" : 3,
+  "TEXD_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+            "bytgth" : 432,
+         "byteet" : 349 },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+  "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+           "mode" : 4
+            }
+ ]
+      }],
+   "nodes" : [
+  {
+         "mesh" : 0,
+       "by" : 504,
+         "target" : 3   },
+  {
+     "buffer" : 0,  "byteLength" :0432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 504,
+ "target" : 34  },   {  "buffer" : 0,
+      "by—eFt" : 936,
+         "target" : 349 },   {  "buffer" : 0,  "byteLength" : 288,
+         "b~" :2,
+ "target" : 3   }],
+   "buffers" : [],
+   "imuffers" : [],
+   "im" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+      },   {  "uri" : "ng"
+      }
+   ],
+   "matls" : [
+  {
+ "name" : "",
+ "pbrW" : {
+        "LaseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexturr" : {
+       "i" : 1
+    }
+ }
+      }],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+       "at" : {
+    "ENT" : 3,
+  "TEXD_0" : 4
+               },"indices" :"ng"
+      }
+   ],
+   "matls" : [
+  {
+ "name" : "",
+ "pbrW" : {
+        "LaseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexturr" : {
+       "i" : 1
+    }
+ }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+       "at" : {
+    "ENT" : 3,
+  "TEXD_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+            "bytgth" : 432,
+         "byteet" : 349 },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+  "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+           "mode" : 4
+            }
+ ]
+      }],
+   "nodes" : [
+  {
+         "mesh" : 0,
+       "by" : 504,
+         "target" : 3   },
+  {
+     "buffer" : 0,  "byteLength" :0432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 0,
+         "byteLength" : 432,
+         "bytset" : 504,
+         "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+           "mode" : 4
+            }
+ ]
+      }],
+   "nodes" : [
+  {
+         "mesh" : 0,
+       "by" : 504,
+         "target" :62
+      },
+  {
+         "buffer" : 0,
+        "name" : "CuTTTTTTTTTTTTTTTTTTTTTTT"
+      },   {   "target" :62
+      },
+  {
+         "buffer" : 0,
+        "name" : "CuTTTTTTTTTdTTTTTTTTTTTTTTTTTTTTTTTTTTTTT"
+      },   {  "uri" : "nTTTTTTTTTTTTTTTTTTTTTTTTTTTTTToe"
+      }],
+   "samplers" : [ 3496],
+   "ssene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "so rce" : 0
+      },
+  {
+         "sampler" : 0,
+         "source" : 1
+      }]
+}

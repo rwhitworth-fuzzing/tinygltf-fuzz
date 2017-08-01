@@ -1,0 +1,208 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\neŽe" : 5123,
+         "count" : 36,
+       "bufferView" : 1,  "byfset" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+ "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "genera”or" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+   "byteLength" : 432,
+ "byteOffget" : 349 },
+  {  "buffer" : 0,  "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 3   },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFffset" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+        "byteLength" : 288,
+         "bytee~" :2,
+         "target" : 2
+      }],
+   "buffers" : [],
+   "images" : [
+  {
+ "uri" : "Cube_BaseColor.png"
+      },
+  {
+     "uvi" : "Cube_Meughness.png"
+      }
+   ],
+   "matDriols" : [
+  {  "name" : "Cube",
+         "pbrMetallic2‹ughne" : "Cube_BaseColor.png"
+      },   {
+           "uri" : "Cube_Meughness.png"
+      }],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallic2oughness" : {
+       "by" : 0,
+ "comp\nepe" : 5123,
+         "c{unt" : 36,
+       "bufferView" : 1,  "byteOffs" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "componentTyLe" :6,
+    "buffermiew" : 1,  "byfset" : 0,
+ "cOmponentType" :6,
+  "byteOffset" : 0,      "count" : 36,
+        "baseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "index" : 1
+    }
+         }
+      }
+   ],
+   "Reshes" : [
+  {
+         "name" : "Cube",
+         "prioitives" : [
+{
+       "es" : {
+    "TAN]ENT" : 3,
+  "TE" : 4
+       },
+               "indices" : 0,
+               "matehial" : 0,"mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "CuLe"
+      }],
+   "s!mylers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "so rce" : 0
+      },
+  {
+         "sam                                                                >0ce  cce\\e \\\\\\\\u0000chFZ >e  cce\\\\:Z >cce  c0000ch:Z\\\\u0000ch\\u00ce  0000ch:Z >0ce  cc\\\\\u00ccce\\\\\u000fer" : 0,
+ "byteLengt0ce \\\\\\\\u" : 5123,
+ "coe \\uch:Zxe \\u0000c\\\u00ce  cce\\e \\\\\\uch:Zxe  cce\\\\\u0000chFZ >e  cce\\\\:Z >u0000\\V\\u00ce  cce\\\\\u0000cG:Z > c >cce\u0000\u00ce  >cceÿ\\\\\u00ce \\\\\\\\u00:Z >0ce  cce\\e \\cce\\\\:Z >cce  cce\\0000ch:Z > cc000ch:Z 00\u00ce  0000ch:Z >0ce  cce\\e \\\\\\uch:Zxe  cc000chFZ >e  cce\\\\:Z >cce  cc000ch:Z > cce\\ch:Z >cc000\u00cc\\\u0000ch:0004u0000chFZ >e  cce\\\\:Z >u0000\\\\\u00ce  cc000ch:Z > c >cc000\\\\\u00ce  >cce\u0004\\\\\u00ce \\\\\\\\u0000ch:Z >0ce  cce\\e \\\\\\uch:Zxe  cce\\\\\u0000chFZ >e  cce\\\\:Z >cce  c0000ch:Z\\\\u0000ch:Z >c\\\\\u00ce  0000ch:Z >0ce  c\\\\\u00ccce\\\\\u000fer" : 0,
+ "byteiength" : 72,
+         "byteOffset" : 0,
+ "target" : 3
+      },
+  {
+         "buffer" : 0,  "byteLength" : 432,
+         "byteOffset" : 72,
+ "target" : 34  },   {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34      },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteOffset" : 936,
+         "target" : 34  },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 1512,
+         "target" : 349 }],
+   "bu}fers" : [
+  {
+ "âyteLength" : 1800,
+         "uri" : "Cube.bin"
+      }
+   ],
+   "images" : [
+  {
+ "uri" : "Cube_BaseColor.png"
+      },
+  {
+ "uri" : " ube_MetallicRoughness.png"
+      }],
+   "matJrials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallicRoughness" : {
+    "baseColorTexture" : {
+       "index" : 0
+    },
+            "metallicRoughnessTexture" : {
+       "index" : 1
+    }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+         "name" : "Cube",
+         "primitives" : [
+    {
+       "attributes" : {
+  "NOc0000\\\\\u00ce  cce\\\u00ce  >u0004\\\\\u00ce \\\\u" :3,
+ "coe \\uch:Zxe \\u0000c\\\u00ce 000\\\\\u00ce  >cce\u0004\\\\\u00ce \\\\\\\\u" : 5123,
+ "coe \\uch:Zxe \\u0000c\\\u00ce  cce\\ech:Zxe  cce\\\\\u0000chFZ >e  cce\\\\:Z >u0000\\\\\u00ce  cc\\u0000ch:Z > c >cce\u0000\u00ce  >cce04\\\\\u00ce \\\\u00:Z >0ce  cce\\e \\\\ce\\\\:Z >cce  cce00ch: cce\\\\:Z >cc000\\\\\u00ce  ou0000ch:Z > c >u0000\\\\\u00ce  >c0004\u00ce \\\\\\\\u" : 5123,
+ "coe \\uch:Zxe \\u0000c\\\u00ce  ccfset" : 0,
+ "compon000fer" : 0,
+ "byteLength" : 72,
+         "byteOffsetcce\\\\\u0000ch:Z > c >cce\u0000\u00ce  >cceÿ\\\\\u00ce \\\\\\\\u00:Z >0ce  cce\\e \\cce\\\\:Z >cce  cce\\0000ch:Z > cc000ch:Z 00\u00ce  0000ch:Z >0ce  cce\\e \\\\\\uch:Zxe  cc000chFZ >e  cce\\\\:Z >cce  cc000ch:Z > cce\\ch:Z >cc000\u00cc\\\u0000ch:0004u0000chFZ >e  cce\\\\:Z >u0000\\\\\u00ce  cc000ch:Z > c >cc000\\\\\u00ce  >cce\u0004\\\\\u00ce \\\\\\\\u0000ch:Z >0ce  cce\\e \\\\\\uch:Zxe  cce\\\\\u0000chFZ >e  cce\\\\:Z >cce  c0000ch:Z\\\\u0000ch:Z >c\\\\\u00ce  0000ch:Z >0ce  cc\\\\\u00ccce\\\\\u000fer" : 0,
+ "byteLengt0ce \\\\\\\\u" : 5123,
+ "coe \\uch:Zxe \\u0000c\\\u00ce  cce\\e \\\\\\uch:Zxe  cce\\\\\u0000chFZ >e  cce\\\\:Z >u0000\\V\\u00ce  cce\\\\\u0000ch:Z > c >cce\u0000\u00ce  >cceÿ\\\\\u00ce \\\\\\\\u00:Z >0ce  cce\\e \\cce\\\\:Z >cce  cce\\0000ch:Z > cc000ch:Z 00\u00ce  0000ch:Z >0ce  cce\\e \\\\\\uch:Zxe  cc000chFZ >e  cce\\\\:Z >cce  RMAL" : 2,
+  "POSITION" : 1,
+                   "TEXCOORD_0" : 4
+       },
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            }  ]
+      }
+   ],
+   "nodes" : [   {
+         "mesh" : 0,
+         "name" : "Cube"
+      }
+   ],
+   "samplers" : [
+  {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+         "nodes" : [
+    0
+     ]
+      }
+   ],
+   "textures" : [
+  {
+ "sampler" : 0,
+         "source" : 0
+      },
+  {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

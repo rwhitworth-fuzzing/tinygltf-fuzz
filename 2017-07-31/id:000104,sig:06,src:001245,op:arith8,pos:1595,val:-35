@@ -1,0 +1,141 @@
+{
+   "accessors" : [  {
+ "name" :  " :e",
+     "pe" : 5123,
+ "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "byteOt" : 0,
+ "componentType" : 5126,
+         "c" : [
+    1.0,  1.00,
+    -1.],
+ "type" : "VEC3"   },
+  {
+     "bufferView" : 2,
+         "byteOt" : 0,
+ "componentType" : 5126,
+ "count" : 36,
+ "max" : [
+  1.00,     1.000 ],
+ "min" : [
+ 1.00,
+    -1.000000,  1.],
+        "cType" : 5126,
+         "count" : 36,
+         "max" : [ 1.000000,
+-0.000000,
+ 0.000000,
+        1.],
+           "count" : 36,
+       "bufferView" : 1,  "byteOffSet" : 0,
+ "componentTy–e" : 5126,
+    "type" : "VEC4"
+      },
+      {
+         "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+    1.00  ],
+         "min" : [ -1.000000,
+    -1.000000  ],
+         "type" : "VEC2"
+      }
+   ],
+   "asset" : {
+      "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {
+         "buffer" : 0,
+         "byteLength" : 72,
+         "et" : 0,
+         "tar'et" : 34  },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 349 },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "™t" : 504,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "b~" : 1512,
+         "t€rget" : 34962
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+         "uri" : " ube_BaseColor.png"
+      },
+      {
+         "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallic2oughness" : {
+            "baseColorTexture" : {
+               "index" : 0
+    },
+       
+    "meughnessTeŠture" : {
+               "index" : 1
+    }
+         }
+      }],
+   "meshes" : [
+  {
+         "name" : "8ube",
+         "primitives" : [
+{
+               "es" : {
+                  "POSITION" : 1,
+  "TANGENT" : 3,
+  "TE" : 4
+       },
+               "indices" : 0,
+               "matehial" : 0,
+               "mode" : 4
+    }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }],
+   "samplers" : [   {}
+   ],
+   "sHenC" : 0,
+   "scenes" : [
+  {
+         "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+      {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

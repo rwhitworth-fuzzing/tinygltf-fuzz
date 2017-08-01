@@ -1,0 +1,537 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "by" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "gator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+ "et" : 0,
+ "target" : 3   },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+  },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "bffset" : 936,
+  "T~" :2,
+         "target" :62
+  }],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+ "uri" : "Cubå_BaseColor.png"
+      },
+  {
+ "uri" : "Cube_Meughness.png"
+      }],
+   "mater@als" : [
+  {
+     "name" : "Cube",
+         "pbrMetallic2oughness" : {
+"baseColorTexture" : {
+   "index" : 0
+    },
+            "meughnessTexture" : {
+   "index" : 1
+    }  }
+      }
+   ],
+   "meshes" : [
+  {
+     "name" : "Cggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggube",
+        "et" : 0,
+ "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },   {  "buffer" : 0,
+         "byteL€ngth" : 432,
+         "byt" : 432,
+         "byteet" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFffset" : 936,
+         "targew" : 349 },   {  "bet" : 504,
+         "target" : 3
+      },   {  "bugew" : 349 },   {  "bet" : 504,
+         "target" : 3
+      },   {"jargew" : 349 },   {  "buffefer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" :2,
+         "gth" : 432,
+         "byteOffset" : 72,
+         
+         "primitives" : [
+{
+   "attributes" : {
+  "NO€ÿAL" : 2,
+  "POSITION" : 1,
+  "TANGENT" : 3,   "TEXCOORD_0" : 4},
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 7
+    }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+ "mesh" : 0,
+         "name" : "Cube"
+      }],
+   "samplers" : [
+  {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [
+    0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+    "componen Type" : 5123,
+ "]ount" : 36,
+      "count" : 36,
+ "max" : [
+ 5      ],  "min" : [
+0
+ ],
+         "type" : "SCALAR"   },
+                 -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+         "compe" : 5126,
+       	 "count" : 36,
+         "max" : [0,
+            1000,
+            1.],
+         "min" : [00,
+            0,
+         0000  ],
+         "type" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "bt" : 36,
+ "max" : [
+    35  ],  "min" : [
+0
+ ],
+         "type" : "SCALAR"   },
+      {
+ "bufferView" : 1,
+         "byteOffset" : 0,
+ "componentType" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+           0,
+         001
+ ],
+ "min" : [
+0,
+          000,
+      	     -1.],
+         "type" : "VEC3"},
+      {
+ "bufferView" : 2,
+ "by" : 0,
+          "count" : 36,
+              "type" : "SCALAR"   },
+      {  "buffew" : 1,
+         "byteOffset" : 0,
+ "coype" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+    1.00,
+         001
+ ],
+ "min" : [
+ 0000,
+    -1000,
+            -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+ "ct" : 36,
+         "max" : [
+  00,
+            0000,
+            1.],
+         "min" : [ -1000,
+            -1.00,
+            -1.0   ],
+         "type" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "byteOffset" : 0,
+         "compoÿÿÿTys" : [   {"" : 0,
+     "by" : 0,
+ "componen Type" : 5123,
+ "]ount" : 36,
+         "max" : [
+    35      ],
+         "min" : [
+0
+         ],
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,
+            1.000000,
+            1.000001
+ ],
+         "min" : [
+
+            1.000001
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.],
+         "type" :    "3"
+      },
+      {
+ "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36-
+         "max" : [
+  00,
+            1.000000,
+            1.000000
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC3"
+      },
+      {
+ "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+            -0.000000,
+            -0.000000,
+            1.000000
+         ],
+         "min" : [00000,
+            -0.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,
+            1.000000
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000  ],
+         "type" : "VEC2"
+      }
+   ],
+   "asset" : {
+      "generator" : "Vorter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+ "bwffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+    "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+ "bwffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {
+ "buffer" : 0,
+         "byteLength" : 576,
+         "byteOffset" : 936,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 1512,
+         "target" : 34962
+      }
+   ],
+   "buffers" : [
+      {
+         "s" : [
+      {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "ype" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+            -0.000000,
+            1.000000
+         ],
+         "min" : [00000,
+            -0.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC4"
+      },
+      {  "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+            1.000000,
+            1.000000
+         ],
+         "min" : [
+    -1.000000,
+            -1.000000  ],
+         "type" : "VEC2"
+      }
+   ],
+   "asset" : {
+      "generator" : "VKrter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+         "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "target" : 34962
+      },
+      {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+     "count" : 36,
+         "max" : [
+    35      ],
+         "min" : [
+0
+         ],
+         "type" : "SCALAR"
+      },
+      {
+         "bufferView" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,
+            1.000000,
+            1.000001
+ ],
+         "min" : [
+
+            1.000001
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.],
+         "type" :    "3"
+      },
+      {
+ "bufferView" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+  00,
+            1.000000,
+            1.000000
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC3"
+      },
+      {
+ "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+            -0.000000,
+            -0.000000,
+            1.000000
+         ],
+         "min" : [00000,
+            -0.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC4"
+      },
+      {
+         "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,
+            1.000000
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000  ],
+         "type" : "VEC2"
+      }
+   ],
+   "asset" : {
+      "generator" : "VKTS glTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+      {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+ "bwffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {
+ "buffer" : 0,
+         "byteLength" : 576,
+         "byteOffset" : 936,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 1512,
+         "target" : 34962
+      }
+   ],
+   "buffers" : [
+      {
+         "s" : [
+      {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+      },
+      {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "ype" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+            -0.000000,
+            1.000000
+         ],
+         "min" : [00000,
+            -0.000000,
+            -1.000000,
+            -1.000000
+         ],
+         "type" : "VEC4"
+      },
+      {  "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+            1.000000,
+            1.000ë00
+       

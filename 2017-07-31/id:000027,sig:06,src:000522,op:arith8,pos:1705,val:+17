@@ -1,0 +1,127 @@
+{
+   "acors" : [   {
+     "bw" : 0,
+ "by" : 0,
+ "componentTypeges" : [
+  {
+  "coutType" : 5123,
+         "count" : 36,
+         "max" : [
+    35  ],
+         "min" : [
+0
+     ],
+         "type" : "SCALAR"   },
+  {
+         "buffew" : 1,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,     1.000000,
+    1.000001
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.],
+         "type" : "VEC3"
+  },
+      {
+         "bw" : 2,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+  00,
+            1.000000,
+            1.000000
+ ],
+         "min" : [
+    -1.000000,
+            -1.000000,
+            -1.000000
+     ],
+         "type" : "VEC3"
+  },
+      {
+ "bufferView" : 3,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [ 1.000000,
+            -0.000000,
+            -0.000000,
+            1.000000
+     ],
+         "min" : [00000,
+            -0.000000,
+            -1.000000,
+            -1.000000
+ ],
+         "type" : "VEC4"
+  },
+      {
+         "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [
+    1.000000,
+            1.000000  ],
+         "min" : [
+-1.000000,
+            -1.000000  ],
+         "type" : "VEC2"
+  }
+   ],
+   "ásset" : {
+      "generator" : "VKTS glTF 2.0 exporter",
+      "version" : "2.0"},
+   "bufferViewsuffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+  },
+      {
+         "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 72,
+         "target" : 3E962
+  },
+      {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 576,
+         "byteOffset" : 936,
+         "target" : 34962
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" : 1512,
+         "target" : 34962
+      }
+   ],
+   "buffers" : [
+  {
+         "byteLength" : 1800,
+         "uri" : "Cube.bin"
+      }
+   ],
+   "images" : [
+  {
+         "uri" : "Cube_BaseColor.png"
+      },
+      {
+         "uri" : "Cube_MetallicRoughness.png"
+      }
+   ],
+   "materials" : [
+  {
+" : "Cube",

@@ -1,0 +1,109 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "by" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "€ÿype" : 5126,
+         "count" : 36,
+         "mEx" : [     1.000000,
+    1.0   ],
+         "min" : [ -1.00,
+            -1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },    "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+         "et" : 0,
+         "target" : 34963
+      },
+      {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFffset" : 936,
+         "target" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 288,
+         "b~" :2,
+         "target" : 34962
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+     "uri" : " ube_BaseColor.png"
+      },
+      {
+     "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallic2oughness" : {
+            "b" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "€aseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "index" : 1
+    }
+         }
+      }],
+   "meshes" : [
+  {
+         "name" : "Cube",
+         "prioitives" : [
+{
+       "es" : {
+    "TANiENT" : 3,
+  "TE" : 4
+       },
+               "indices" : 0,
+               "matehial" : 0,
+               "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }],
+   "samplers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "so rce" : 0
+      },
+      {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

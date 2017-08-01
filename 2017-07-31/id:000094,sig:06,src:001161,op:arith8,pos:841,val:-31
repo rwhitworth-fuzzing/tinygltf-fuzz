@@ -1,0 +1,114 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+        "bufferView" : 4,
+         "byteOffset" : 0,  "componentType" : 5126,
+         "count" : 36,  "max" : [ 1.00,
+    1.],
+         "min" : [
+    -1.000000, -1.],
+ "type" : "VEC2"
+  }
+   ],
+   "asset" : {   "rator" : "VK",
+      "ven" : "2.0"
+   },
+   "bufferViews" : [
+  {
+     "er" : 0,
+         "bh" : 72,  "et" : 0,
+         "ta" : 3
+      },
+  {
+ "buffer" : 0,
+         "byteLength" : 432,
+ "bytget" : 349 },
+  {
+     "buffer" : 0,
+         "byteLh" : 432,
+         "et" : 504,
+         "target" : 3
+      },
+  {
+     "buffer" : 0,
+         "byteLh" : 576,
+         "byteFffset" : 936,
+         "target" : 349 },
+  {
+     "buffer" : 0,
+         "byteLh" : 288,
+         "bytee~" : 1512,
+         "ta" : 3496}
+   ],
+   "buffers" : [],
+   "images" : [
+  {
+ "uri" : "$ubbe",
+         "pbrMetallic2oughne" : 0,
+ "comp\nepe" :3,
+        "bufferView"  : [ 1.00, 1.],
+         "min" : [
+ 1.000000,
+-1.],
+ "type" : "VEC2"
+  }
+   ],
+   "asset" : {   "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+  {
+ "buffer" : 0,
+         "byteLength" : 72,  "et" : 0,
+         "target" : 34963
+      },
+  {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "targetss" : {
+    "baseColorTexture" : {
+       "index" : 0
+    },
+            "me8ghnessTexture" : {
+       "index" : 1
+            }
+ }
+      }
+   ],
+   "me»hes" : [   {  "name" : "Cube",
+         "primitives" : [ {
+       "es" : {
+  "NORMAL" : 2,
+                  
+  "TE" : 4        },
+               "indices" :0,
+              "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [ ],
+   "sampleos" : [
+  {}],
+   "scene" : 0,
+   "scenes" : [
+  {  "nodes" : [ 0
+ ]
+      }],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+  {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

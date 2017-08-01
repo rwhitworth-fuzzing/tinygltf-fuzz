@@ -1,0 +1,88 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "bytzOt" : 0,
+ "componentType" : 5126,  "count" : 36,
+ "max" : [  000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "gator" : "VKTTF 2.0 exporter",
+      "ver" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+      "buffer" : 0,
+ "byteLength" : 432,  "byteOt" : 349 },
+  {  "bu" : 0,
+ "bytgth" : 432,
+"name" : "Cu¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾",
+       "et" : 0,
+         "target" : 34  },
+  {  "buffer" : 0,
+         "byteLh" : 432,
+         "et" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" :62
+  },
+      {  "ÿÿÿer" : 0,
+ "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" :2,
+         "target" : 34  }],
+   "buffers" : [
+   ],
+   "images" : [
+  {  "uri" : "   -_BaseColor.png"
+  },
+  {
+ "uri" : "Cube_Meugh}ess.png"
+  }
+   ],
+   "materials" : [
+  {
+ "name" : "Cube","name" : "Cube",
+         "ps" : [
+{"es" : { "TAN]ENT" : 3,
+  "TE" : 4
+   },
+             "matehial" : 0,
+               "mode" : 4
+}
+ ]   }],
+   "nodes" : [
+  {
+ "mesh" : 0,
+            "name" : "Cuoe"
+  }],
+   "samplers" : [   {}],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [000,
+ 1.00  ],
+         "type" : "fEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTS glTF 2.0 exporter",
+      "version" : "2.0"},
+   "bufferViews" : [
+  {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "byteOffset" : 0,
+         "target" : 34963
+  },
+      {  "buffer" : 0,
+         "byteLength" : 43 }
+  ]   }

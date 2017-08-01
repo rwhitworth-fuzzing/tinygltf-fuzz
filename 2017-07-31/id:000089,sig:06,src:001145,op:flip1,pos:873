@@ -1,0 +1,117 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+        "bufferView" : 4,
+         "byteOffset" : 0,  "componentType" : 5126,
+         "count" : 36,  "max" : [ 1.00,
+    1.],
+         "min" : [
+    -1.000000, -1.],
+ "type" : "VEC2"
+  }
+   ],
+   "asset" : {   "rator" : "VKTS g",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+  {
+     "buffer" : 0,
+         "bh" : 72,  "et" : 0,
+         "target" : 3
+      },
+  {
+ "buffer" : 0,
+         "byteLength" : 432,
+ "byteOffget" : 349 },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 504,
+         "target" : 3
+      },
+  {
+     "buffer" : 0,
+         "byteLength" : 576,
+         "byteFffset" : 936,
+         "target" : 349 },
+  {
+     "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" : 1512,
+         "target" : 3496}
+   ],
+   "buffers" : [],
+   "images" : [
+  {
+ "õri" : "Cube_BaseCube",
+         "pbrMetallic2oughne" : 0,
+ "comp\nepe" :3,
+        "bufferView" : 4,
+         "byteOffset" : 0,  "componentType" : 5126,
+         "count" : 36,  "max" : [ 1.00,
+    1.],
+         "min" : [
+ 1.000000,
+    -1.],
+ "name" : "VEC2"
+  }
+   ],
+   "asset" : {   "generator" : "VKTS glTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [
+  {
+ "buffer" : 0,
+         "byteLength" : 72,  "et" : 0,
+         "target" : 34963
+      },
+  {
+ "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "targetss" : {
+    "baseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "index" : 1
+            }
+ }
+      }
+   ],
+   "meshes" : [   {  "name" : "Cube",
+         "primitives" : [ {
+       "es" : {
+  "NORMAL" : 2,
+                  
+  "TE" : 4        },
+               "indices" : 0,"matehial" : 0,
+              "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [ ],
+   "samplers" : [
+  {}],
+   "scene" : 0,
+   "scenes" : [
+  {  "nodes" : [ 0
+ ]
+      }],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+  {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

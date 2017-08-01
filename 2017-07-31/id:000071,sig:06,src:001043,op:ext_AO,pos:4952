@@ -1,0 +1,157 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+ "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "byteOt" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+    "target" : 3   },
+  {
+     "buffer" : 0,  "byteLength" : 432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "byt…Ot" : 504,
+         "target" : 34  },   {  "buffer" : 0,
+         "byteLength" :	576,
+         "byteFt" : 936,
+         "target" : 349 },   {  "buffer" : 0,
+         "byteLength" : 288,
+         "b~" :2,
+         "target" : 3   }],
+   "buffers" : [
+   ],
+   "imrs" : [
+   ],
+   "im" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+      },   {  "uri" : "Cg"
+      }
+   ],
+   "matls" : [
+  {
+ "name" : "Cube",
+         "ness" : {
+        "LaseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexturr" : {
+       "i" : 1
+    }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+               "at" : {
+  "NORMAL" : 2,
+  "POSN" : 1,   "TANGENT" : 3,
+  "TEXC_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+            "byteth" : 432,
+         "byteet" : 349 },
+  {  "buffer" : 0,
+         "byteLh" : 432,
+         "et" : 504,
+         "target" : 34  },
+  {  "buffer" : 0,
+         "byteLh" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+  {  "er" : 0,
+           "mod…" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "uuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuumesh" : 0,
+       "by" : 504,
+         "target" :62
+      },
+  {
+         "bu" : 0,
+         "byteLength" : 576,
+         "byteOf" : 936,
+         "target" :62
+      },
+  {
+         "bu" : 0,
+         "byteLength" : 288,
+         "byteOf" : 1512,
+         "et" : 34      }
+   ],
+   "buffQrs" : [
+  {
+         "Bytgth" : 1800,
+         "uri" : "Cube.bin"
+      }],
+   "ima^es" : [
+  {
+         "uri" : "Cube_BaseColor.png"
+      },
+      {
+         "uri" : "CubecRoughness.png"
+      }
+   ],
+   "materials" : [   {
+         "Kame" : "Cube",
+         "pbrMetallicRoughness" : {
+            "baseColorTexture" : {
+                           "" : 1
+            }
+         }
+      }],
+   "mevhes" : [   {
+         "name" : "Cube",
+         "ps" : [ {
+               "attributes" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+                  "TANGENT" : 3,
+                  "TEXCOORD_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            }
+ ]
+      }],
+   "node‚" : [
+  {
+         "mesh" : 0,
+         "name" : "Cube"
+      }
+   ],
+   "samplers" : [
+3496],
+   "scene" : 0,
+   "scenes" : [   {
+         "nodes" : [
+0
+ ]
+      }],
+   "textr" : 0,
+         "source" : 0
+      }

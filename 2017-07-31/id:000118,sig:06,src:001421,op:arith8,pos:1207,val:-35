@@ -1,0 +1,103 @@
+{
+   "accessors" : [  {
+ "name" : "CKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKdKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKKQKKKKKKKKKKbe",
+ "pe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "byteOt" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [ 1.00, 1.],
+            "type" : "VEC4"
+  },
+  {
+     "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [0,
+    1.00  ],
+         "min" : [ -1.00,
+    -1.00  ],
+         "type" : "VEC4"
+      }],
+   "asset" : {
+      "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "et" : 0,
+         "target" : 34963
+      },
+  {
+ "buffer" : 0,
+          "buffer" : 0,
+         "byteLength" : 288,
+         "b~" : 1512,
+         "target" : 34962
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {  "uri" : " ube_BhseColor.png"
+      },
+  {
+ "uri" : "Cube_Meugmness.éng"
+      }
+   ],
+   "mates" : [
+  {
+ "name" : "Cube",
+         "pbrMlic2oughness" : {
+    "baseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "index" : 1     }
+ }
+      }],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+       "es" : {
+          "AL" : 2,
+                  "POSN" : 1,
+  "TAT" : 3,
+  "TE" : 4
+       },
+               "indices" : 0,
+               "mate" : 0,
+               "mode" : 4
+            }
+ ]
+      }],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }],
+   "samplers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+         "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+  {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

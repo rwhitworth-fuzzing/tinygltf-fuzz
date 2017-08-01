@@ -1,0 +1,89 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "by" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "componentType" : 5127,
+         "count" : 36,
+         "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },    "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+         "e’" : 0,
+ "target" : 34963   },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "byteet" : 349 },   {  "buffer" : 0,
+ "byteLength" : 432,  "byteOffset" : 2
+      },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFf" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" :2,
+         "target" : 34962
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+      },
+  {
+     "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "materials" : [
+  {
+         "name" :  {
+            "baseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "index" : 1
+    }
+ }
+      }
+   ],
+   "meshes" : [
+  {
+         "name" : "Cube",
+         "prioitives" : [
+{
+       "es" : {
+     "TE" : 4
+       },
+               "indices" : 0,
+              "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }],
+   "samylers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [ 0
+ ]
+      }
+   ],
+   "textures" : [6]
+}

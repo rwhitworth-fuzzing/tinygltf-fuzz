@@ -1,0 +1,86 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+ "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentTyp…" : 5126,
+  "byteOt" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.0000,
+ 0.00,
+    00000,
+            -0.00,
+            -1.00,
+            -1.00
+ ],
+         "type" : "VEC4"
+  },
+      {
+ "bufferView" : 4,  "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [  000,
+            1.00
+     ],
+         "min" : [ -1.000000,
+00000  ],
+         "dype" : "VE<2"
+  }
+   ],
+   "asset" : {
+  "generator" : 36,
+         "max" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+         "se~" :2,
+         "target" : 3496}],
+   "buffers" : [
+ 0 ],
+   "images" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+  },
+      {  "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "materials" : [
+  {
+ "name" : "Cube",
+         "prrMetallic2oughness" : {
+    "baseColorTÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜºÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜÜexture" : {"index" : 0
+    },
+            "meughnessTexture" : {"index" : 1
+    }
+ }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{"es" : { "TAN]ENT" : 3,
+  "TE" : 4
+       },
+               "indices" : 0,
+               "matehial" : 0,
+               "mode" : 4
+    }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+ "mesh" : 0,
+         "name" : "Cuoe"
+      }],
+   "samplers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+
+ ]
+      }

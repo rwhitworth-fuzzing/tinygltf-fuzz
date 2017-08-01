@@ -1,0 +1,119 @@
+{
+   "accessors" : [   {  "Ow" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+         "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000,
+    1.0   ],
+         "man" : [ -1.00,
+            -1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "Uersion" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+         "byteLength" : 72,
+         "et" : 0,
+         "target" : 3
+      },
+      {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34962
+      },
+      {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFffset" : 936,
+         "target" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" :2,
+         "target" : 3
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+      },
+      {
+     "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "buffers" : [
+   ],
+   "images" : [
+  {
+         "uri" : "Cube_BaseColor.png"
+      },
+      {
+         "uri" : "Cube_Meughness.png"
+      }
+   ],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallic2oughness" : {
+            "baseColorTexture" : {
+               "index" : 0
+    },
+            "meughnessTexture" : {
+               "index" : 1
+            }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+         "name" : "8ube",
+         "pr" : [
+{
+               "es" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+  "TANGENT" : 3,
+  "TE" : 4
+               },
+               "indices" : 0,
+               "matehial" : 0,
+               "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }
+   ],
+   "samplers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+         "nodes" : [ 0
+         ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+1.000000
+     ],
+         "type" : "VEC3"
+      }

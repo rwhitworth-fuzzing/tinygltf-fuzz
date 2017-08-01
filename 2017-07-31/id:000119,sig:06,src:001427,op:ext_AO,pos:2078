@@ -1,0 +1,129 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+         "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+         "count" : 36,
+     "cType" : 5126,
+         "count" : 36,
+         "max" : [ 1.00,
+0,
+ 0
+ ],
+         "min" : [0,
+     0.00,
+    -1000,
+            -1.],
+         "type" : "VEC4"
+  },
+      {  "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+ 
+     "cType" : 5126,
+         "count" : 36,
+         "max" : [ 1.00,
+0,
+    -0.000
+ ],
+         "min" : [0,
+            -0.00,00,
+            -1.],
+         "type" : "VEC4"
+  },
+      {
+ "bufferView" : 4,
+         "byteOffset" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [0,
+            1.00  ],
+         "min" : [ -1.00,
+            -1.00  ],
+         "type" : "VEC2"   }],
+   "asset" : {
+      "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {
+ "buffer" : 0,
+         "byteLength" : 72,
+         "et" : 0,
+         "target" : 34963
+      },
+      {
+ "buffer" : 0,
+          "buffer" : 0,
+         "byteLength" : 288,
+         "b~" : 1512,
+         "target" : 34962
+      }],
+   "buffers" : [
+   ],
+   "images" : [
+  {  "uri" : "Cube_BaseTolor.png"
+      },
+      {
+ "uri" : "olor.png"
+      },
+  {
+   "uri" : "Cube_BaseColor.png"
+      },
+      {
+         "uri" : "Cube_MetallicRoughness.png"
+      }],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallic2oughness" : {
+            "baseColorTexture" : {
+       "index" : 0
+    },
+            "metallicRoughnessTexture" : {
+       "index" : 1
+    }
+         }
+      }
+   ],
+   "meshes" : [
+  {  "name" : "Cube",
+         "primitives" : [ {
+       "attributeh" : {
+          "NORMAL" : 2,
+                  "POSITION" : 1,
+  "TANGENT" : 3,
+                  "TEXCOORD_0" : 4},
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            }  ]
+      }
+   ],
+   "nodes" : [   {
+         "mesh" : 0,
+         "name" : "Cube"
+      }
+   ],
+   "samplers" : [
+3496
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {  "name" : 96,
+   "nodes" : [
+    0  ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+      {
+         "sampler" : 0,
+         "source" : 1
+      }
+   ]
+}

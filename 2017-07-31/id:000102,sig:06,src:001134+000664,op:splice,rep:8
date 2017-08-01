@@ -1,0 +1,503 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "bytzOt" : 0,
+ "componentType" : 5126,  "count" : 36,
+ "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+      "buffer" : 0,
+ "byteLength" : 432,  "byteOffget" : 349 },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+"name" : "Cube¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾¾",
+       "et" : 0,
+         "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffget" : 349 },
+      {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" :62
+  },
+      {  "ÿÿÿer" : 0,
+ "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffse~" :2,
+         "target" : 34  }],
+   "buffers" : [
+   ],
+   "images" : [
+  {  "uri" : "Cub|_BaseColor.png"
+  },
+  {
+ "uri" : "Cube_Meugh}ess.png"
+  }
+   ],
+   "materials" : [
+  {
+ "name" : "Cube","name" : "Cube",
+         "ps" : [
+{"es" : { "TAN]ENT" : 3,
+  "TE" : 4
+   },
+             "matehial" : 0,
+               "mode" : 4
+}
+ ]   }],
+   "nodes" : [
+  {
+ "mesh" : 0,
+            "name" : "Cuoe"
+  }],
+   "samplers" : [   {}],
+   "scene" : 0,
+   "scenes" : [
+  {
+ "nodes" : [ 0
+ ]
+  }],
+   "samplers" : [000,
+           0,
+         001
+ ],
+ "min" : [
+0,
+          007,
+      	     -1.],
+         "type" : "VEC3"},
+      {
+ "bw" : 2,
+ "by" : 0,
+          "count" : 36,
+              "type" : "SCALAR"   },
+      {  "buffew" : 1,
+         "by" : 0,
+ "coype" : 5126,  "count" : 36,     "type" : "SCALAR"   },
+      {
+ "bw" : 1,
+         "byteOffset" : 0,
+ "compe" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+           0,
+         001
+ ],
+ "min" : [
+0,
+          000,
+      	     -1.],
+         "type" : "VEC3"},
+      {
+ "bufferView" : 2,
+ "by" : 0,
+          "count" : 36,
+              "type" : "SCALAR"   },
+      {  "buffew" : 1,
+         "by" : 0,
+ "coype" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+    1.00,
+         001
+ ],
+ "min" : [
+ 0000,
+    -1000,
+            -1.],
+         "type" : "VEC3"
+  },
+      {  "b: 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+     w" : 2,
+ "by" : 0,
+ "coype" : 5126,
+         "count" : 36,
+         "max" : [
+  00,
+            0000,
+            1.],
+         "min" : [ -1000,
+            -1.00,
+            -1.0   ],
+         ntype" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "by"  : [00,
+            0,
+         0000  ],
+        "by" : 0,
+ "compin" : [
+0
+ ],
+ "type" : "SCALAR"   },
+                 -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+        "compe" : 5126,
+ 
+  {   "et" : 0,
+         "target" :6},
+  {
+ "buff`r" : 0,
+         "sampleT" : 0,
+         "so fce" : 0
+  },
+      {
+     "sampler" : 0,
+         ": ""   },
+      {
+ "bu" : 2,
+ "Offset" : 0,
+ "cType" : 5126,
+         "count" : 36,
+         "max" : [0,
+       {   "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [ 35  ],
+ "min" : [
+0  ],  "type" : "SC"
+  },
+      {" šc" : {
+  "{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{{ [ 35  ],
+         "miZ" : [
+{ " š šc" : {
+  "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [
+ 5  ],
+         "min" : [{   "w" : 0,
+     "by" : 0,
+ "comntTypeunt" : 36,
+ "m" : 36,
+ "max" : [ 35  ],
+      "w" :0,
+ "compe" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [ 35  ],
+ "min" : [
+0  ],  "type" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [ 35  ],
+ "min" : [
+0  ],  "type" : "AR"
+  },
+      {" šc" : {
+  "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [
+ 5  ],
+ "min" : [{   "w" : 0,
+     "by" : 0,
+ "comntType" : 5123,
+ "count" : 36,
+ "m" : 36,
+ "max" : [ 35  ],
+      "w" : 0,
+     "by" : 0,
+ "compe" : 5123,
+ "count" : 36,
+ "m" : 36,
+ "max" : [ 35  ],
+ "min" : [
+0  ],  "type" : "AR"
+  },
+      {" šc" : {
+  "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,  "max" : [
+ 5  ],
+         "min" : [
+{
+" šc" : [   {   "w" : 0,
+     "by" : 0,
+ "comntType" : 5123,
+ "count" : 36,
+ "m" : 36,
+ "max" : [ 35  ],  "min" : [
+0  ],  "type" : "SCALAR"
+  },
+      {" šc" : [   {
+  "w" : 0,
+     "by" : 0,
+ "compe" :3,
+ "count" : 36,
+ "m" : 36,  "max" : [
+35  ],
+ "min" : [
+0
+ ],
+ "type" : "SR"
+  },
+      {
+ "bu" : 1,
+ "by" : 0,
+ "e" : 5126,
+         "count" : 36,  "max" : [0,
+0000,
+   1
+ ],
+ "min" : [00,
+0,
+    -1.],
+ "Yype" : ""   },
+      {
+ "bu" : 2,
+ "Offset" : 0,
+ "cType" : 5126,
+         "count" : 36,
+         "max" : [0,
+       {   "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [ 35  ],
+ "min" : [
+0  ],  "type" : "SC"
+  },
+      {" šc" : {
+  "w" : 0,
+     "by" : 0,
+ "compo" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [ 35  ],
+         "miZ" : [
+{ " š šc" : {
+  "w" : 0,
+     "by" : 0,
+ "c" : 5123,
+ "count" : 36,
+ "m" : 36,
+         "max" : [
+ 5  ],
+         "min" : [{   "w" : 0,
+     "by" : 0,
+ "comntType" : 53 ,
+ "m" : 36,
+         "max" : [
+ 5  ],
+         "min" : [
+{
+" šc" : [   {   "w" : 0,
+     "by" : 0,
+ "comntType" : 5123,
+ "count" : 36,
+ "m" : 36,
+ "max" : [ 35  ],  "min" : [
+0  ],  "type" : "SCALAR"
+  },
+      {" šc" : [   {
+  "w" : 0,
+     "by" : 0,
+ "compe" :3,
+ "count" : 36,
+ "m" :6,
+ "m" : 36,
+ "max" : [ 35  ],  "min" : [
+0  ],  "type" : "SCALAR"
+  },
+      {" šc" : [   {
+  "w" : 0,
+     "by" : 0,
+ "compe" :3,
+ "count" : 36,
+ "m" : 36,  "max" : [
+35  ],
+ "min" : [
+0
+ ],
+ "type" : "SR"
+  },
+      {
+ "bu" : 1,
+ "by" : 0,
+ "e" : 5126,
+         "coun" : [
+0
+ ],
+ "type" : "SCALAR"   },
+                 -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+         "compe" : 5126,
+         "count" : 36,
+         "max" : [0,
+            1000,
+            1.],
+         "min" : [00,
+            0,
+          -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+         "compe" : 5126,
+         "count" : 36,
+         "max" : [0,
+            1000,
+            1.],
+         "min" : [00,
+            0,
+         0000  ],
+         "type" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "bt" : 36,
+ "max" : [
+    35  ],  "min" : [
+0
+ ],
+    "min" : [
+0
+ ],
+         "type" : "SCALAR"   },
+                 -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+         "compe" : 5126,
+         "count" : 36,
+         "max" : [0,
+            1000,
+            1.],
+         "min" : [00,
+            0,
+         0000  ],
+         "type" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "bt" : 36,
+ "max" : [
+    35  ],  "min" : [
+0
+ ],
+         "type" : "SCALAR"   },
+      {
+ "bw" : 1,
+         "byteOffset" : 0,
+ "compe" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+           0,
+         001
+ ],
+ "min" : [
+0,
+          007,
+      	     -1.],
+         "type" : "VEC3"},
+      {
+ "bw" : 2,
+ "by" : 0,
+          "count" : 36,
+              "type" : "SCALAR"   },
+      {  "buffew" : 1,
+         "by" : 0,
+ "coype" : 5126,  "count" : 36,     "type" : "SCALAR"   },
+      {
+ "bw" : 1,
+         "byteOffset" : 0,
+ "compe" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+           0,
+         001
+ ],
+ "min" : [
+0,
+          000,
+      	     -1.],
+         "type" : "VEC3"},
+      {
+ "bufferView" : 2,
+ "by" : 0,
+          "count" : 36,
+              "type" : "SCALAR"   },
+      {  "buffew" : 1,
+         "by" : 0,
+ "coype" : 5126,  "count" : 36,
+ "max" : [
+ 000,
+    1.00,
+         001
+ ],
+ "min" : [
+ 0000,
+    -1000,
+            -1.],
+         "type" : "VEC3"
+  },
+      {  "b: 0,
+ "comp\nepe" : 5123,
+     "count" : 36,
+     w" : 2,
+ "by" : 0,
+ "coype" : 5126,
+         "count" : 36,
+         "max" : [
+  00,
+            0000,
+            1.],
+         "min" : [ -1000,
+            -1.00,
+            -1.0   ],
+         "type" : "VEC3"
+  },
+      {
+ "bu" : 3,
+        "by"  : [00,
+            0,
+         0000  ],
+        "by" : 0,
+ "compin" : [
+0
+ ],
+ "type" : "SCALAR"   },
+                 -1.],
+         "type" : "VEC3"
+  },
+      {  "bw" : 2,
+ "by" : 0,
+         "compe" : 5126,
+  "by" : 0,
+ "c" : 5123,
+ "coun        "count" : 36,
+ 

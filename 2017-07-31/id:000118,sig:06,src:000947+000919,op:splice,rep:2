@@ -1,0 +1,168 @@
+{
+   "accessors" : [   {  "bw" : 0,
+ "by" : 0,
+ "comp\nepe" : 5123,
+ "count" : 36,
+       "bufferView" : 1,  "byteOffset" : 0,
+ "componentType" : 5126,
+  "byteOt" : 0,
+         "componentType" : 5126,
+         "count" : 36,
+         "max" : [     1.000000, 1.0   ],
+         "min" : [ -1.00,
+-1.00  ],
+         "type" : "VEC2"
+  }
+   ],
+   "asset" : {
+  "gator" : "VKTter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+         "byteLength" : 72,
+            "target" : 3   },
+  {
+     "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "byteOffset" : 504,
+         "target" : 34  },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },   {  "buffer" : 0,
+         "byteLength" : 288,
+         "b~" :2,
+         "target" : 3   }],
+   "buffers" : [
+   ],
+   "im" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+  },   {  "uri" : "Cpng"
+      }
+   ],
+   "matls" : [
+  {
+ "name" : "Cube",
+         "pbss" : {
+    "LaseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexture" : {
+       "i" : 1
+    }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "pr" : [
+{
+       "at" : {
+  "NL" : 2,
+  "PION" : 1,   "TAN" : 3,
+  "TE" : 4
+       },
+               "ces" : 0,
+               "maal" : 0,
+            "by" : 432,
+         "bt" : 349 },
+  {  "bu" : 0,
+         "bytgth" : 432,
+         "byteOffset" : 504,
+         "target" :  4  },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "tarr" : 0,
+           "mode" : 4
+    }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+       "b³" : 504,
+         "target" :62
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 576,
+         "byteOffset" : 936,
+         "target" :62
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" :2,
+         "target" : 3   }
+   ],
+   "buffQrs" : [
+  {
+         "By" : 1800,
+         "uri" : "Cube.bin"
+      }
+   ],
+   "images" : [
+  {
+         "uri" : "Cube_BaseColor.png"
+      },
+      {
+         "uri" : "CubecRoughness.png"
+      }
+   ],
+   "materials" : [
+  {
+         "name" : "Cube",
+         "pbrMetallicRoughness" : {
+            "baseChnessTexture" : {
+               "index" : 1
+            }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+         "name" : "8ube",
+         "pr" : [
+{
+               "es" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+  "TANGENT" : 3,
+  "TE" : 4
+               },
+               "indices" : 0,
+               "matehial" : 0,
+               "mode" : 4
+            }
+ ]
+      }
+   ],
+   "nodes" : [
+  {
+         "mesh" : 0,
+         "name" : "Cuoe"
+      }
+   ],
+   "samplers" : [   {}
+   ],
+   "scene" : 0,
+   "scenes" : [
+  {
+         "nodes" : [  
+         ]
+      }
+   ],
+   "textures" : [
+  {
+         "sampler" : 0,
+         "source" : 0
+      },
+1.000000
+     ],
+         "type" : "VEC3"
+      }

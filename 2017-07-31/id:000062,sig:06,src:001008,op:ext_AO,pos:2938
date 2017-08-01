@@ -1,0 +1,162 @@
+{
+   "accessors" : [   ],
+   "asset" : {
+  "generator" : "VKTTF 2.0 exporter",
+      "version" : "2.0"
+   },
+   "bufferViews" : [   {  "buffer" : 0,
+ "byteLength" : 72,
+    "target" : 3   },
+  {
+     "buffer" : 0,  "byteLength" : 432,
+         "et" : 349 },   {  "buffer" : 0,
+         "byteLength" : 432,
+         "et" : 504,
+         "target" : 34  },   {  "buffer" : 0,
+         "byteLength" : 576,
+         "by—eFt" : 936,
+         "target" : 349 },   {  "buffer" : 0,
+         "byteLength" : 288,
+         "b~" :2,
+         "target" : 3   }],
+   "buffers" : [],
+   "imuffers" : [],
+   "im" : [
+  {
+     "uri" : "Cube_BaseColor.png"
+      },   {  "uri" : "ng"
+      }
+   ],
+   "matls" : [
+  {
+ "name" : "",
+         "pbrs" : {
+        "LaseColorTexture" : {
+       "index" : 0
+    },
+            "meughnessTexturr" : {
+       "i" : 1
+    }
+         }
+      }
+   ],
+   "meshes" : [
+  {
+ "name" : "Cube",
+         "primitives" : [
+{
+       "at" : {
+    "ENT" : 3,
+  "TEXD_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+            "bytgth" : 432,
+         "byteet" : 349 },
+  {  "buffer" : 0,
+         "byteLength" : 432,
+         "bytset" : 504,
+         "target" : 34  },
+  {  "buffer" : 0,
+         "byteLength" : 576,
+         "byteFt" : 936,
+         "target" : 349 },
+  {  "buffer" : 0,
+           "mode" : 4
+            }
+ ]
+      }],
+   "nodes" : [
+  {
+         "mesh" : 0,
+       "by" : 504,
+         "target" :62
+      },
+  {
+         "buffer" : 0,
+         "bytegength" : 576,
+         "byteOffset" : 936,
+         "target" :62
+      },
+      {
+         "buffer" : 0,
+         "byteLength" : 288,
+         "byteOffset" :2,
+         "target" : 34    },
+  {
+         "bu" : 0,
+         "bytgth" : 576,
+         "byfset" : 936,
+         "target" :62
+      },
+      {
+            "byteLength" : 576,
+         "byteOf" : 936,
+         "target" :62
+      },
+      {
+         "bu" : 0,
+         "byteLength" : 288,
+         "byteOf" : 1512,
+         "et" : 34      }
+   ],
+   "buffQrs" : [
+  {
+         "ByteLength" : 1800,
+         "uri" : "Cube.bin"
+      }],
+   "ima^es" : [
+  {
+         "uri" : "Czbe_BaseColor.png"
+      },
+      {
+         "uri" : "ng"
+      }
+   ],
+   "materials" : [   {
+         "Kame" : "Cube",
+         "pbrMetallicRoughness" : {
+            "baseColorTexture" : {
+               "index" : 0
+    },
+            "metallissTexture" : {
+               "index" : 1
+            }
+         }
+      }
+   ],
+   "mevhes" : [   {
+         "name" : "Cube",
+         "primitives" : [ {
+               "as" : {
+                  "NORMAL" : 2,
+                  "POSITION" : 1,
+                  "TANGENT" : 3,
+                  "TEXCDORD_0" : 4
+               },
+               "indices" : 0,
+               "material" : 0,
+               "mode" : 4
+            }
+ ]
+      }
+   ],
+   "node‚" : [
+  {
+         "mesh" : 0,
+         "name" : "Cube"
+      }
+   ],
+   "samplers" : [
+3496
+   ],
+   "scene" : 0,
+   "scenes" : [   {
+         "nodes" : [
+    0
+ ]
+      }
+   ],
+   "textr" : 0,
+         "source" : 0
+      },
